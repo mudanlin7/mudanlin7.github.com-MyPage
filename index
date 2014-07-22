@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="css/MyCSS.css"/>
+<link rel="stylesheet" type="text/css" href="css/animate.css"/>
+<!--<link rel="stylesheet" type="text/css" href="css/MRed.css"/> 
+<link rel="stylesheet" type="text/css" href="css/MRed.css"/>   --> 
+<link rel="stylesheet" type="text/css" href="css/MBlueDark.css"/>
+
+<title>首页</title>
+<script src="js/jquery-1.9.1.min.js"></script>
+
+<script src="js/list.js"></script>
+<script src="js/anijs-min.js"></script>
+<script>
+
+
+</script>
+
+<style>
+
+ 
+</style>
+</head>
+
+<body class="body">
+   <div class="homeBanner1">
+      <img  src="img/BANNER2.jpg"/>
+   </div>
+
+  <div class="module">
+    <div class="activity">
+      <img src="img/activity.png"/>
+      <label>最新活动</label>
+    </div><label></label>
+    
+    <div class="product">
+      <img src="img/product.png"/>
+      <label>供应产品</label>    
+    </div><label></label>  
+    
+    <div class="CoImg">
+      <img src="img/CoImg.png"/>
+      <label>公司图库</label>    
+    </div>
+    
+    <div class="video">
+      <img src="img/video.png"/>
+      <label>公司视频</label>    
+    </div><label></label>
+    
+    <div class="CoNews">
+      <img src="img/news.png"/>
+      <label>公司动态</label>    
+    </div><label></label>
+    
+    <div class="CoProfile">
+      <img src="img/profile.png"/>
+      <label>公司档案</label>    
+    </div>  
+  </div>
+
+
+
+<div class="listparent">
+    <div class="List" id="List">
+         <div id="listBtn"><img src="img/list.png"/></div>
+        <a href="#"> <div class="listIcon"><img src="img/location.png"/></div></a>
+        <a href="#"> <div class="listIcon"><img src="img/phone.png"/></div></a>
+        <a href="#"> <div class="listIcon"><img src="img/question.png"/></div></a>
+    
+    </div>
+</div>
+
+
+
+
+<div class="TecBy">技术支持：LingCode 灵码</div>
+<!--<img  src="img/bg4.jpg" class="bg blur" id="BG"/>-->
+
+<div>
+ 
+</div>
+
+<script src="js/anijs-min.js"></script>
+</body>
+</html>
